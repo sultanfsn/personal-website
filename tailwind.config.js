@@ -19,15 +19,8 @@ module.exports = {
         'blue':'#006BD3',
         'blue-light':'#4A9AE8',
         'blue-dark':'#004F9C',
-        'teal':'#47BEAB',
-        'teal-light':'#6EE3D1',
-        'teal-dark':'#339082',
-        'coral':'#EF7373',
-        'coral-light':'#E8AAAA',
-        'coral-dark':'#CB4C4B',
-        'orange':'#F87E0D',
-        'orange-light':'#F3AD6B',
-        'orange-dark':'#C55E00',
+        'sand-white':'#D1CEC7',
+        'blurry-white':'#F3F3F3'
       },
       boxShadow: {
         'basic': 'rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px',

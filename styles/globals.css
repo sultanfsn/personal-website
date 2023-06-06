@@ -4,7 +4,7 @@
 
 html *
 {
-  font-family: 'Poppins', sans-serif !important;
+  font-family: 'JetBrains Mono', sans-serif !important;
 }
 
 .employee-detail > h5 {
@@ -144,14 +144,14 @@ form select {
 }
 
 .projectFont::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  font-family: 'Poppins', sans-serif;
+  font-family: 'JetBrains Mono', sans-serif;
   opacity: 1; /* Firefox */
 }
 
 .projectFont:-ms-input-placeholder { /* Internet Explorer 10-11 */
-  font-family: 'Poppins', sans-serif;
+  font-family: 'JetBrains Mono', sans-serif;
 }
 
 .projectFont::-ms-input-placeholder { /* Microsoft Edge */
-  font-family: 'Poppins', sans-serif;
+  font-family: 'JetBrains Mono', sans-serif;
 }
